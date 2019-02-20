@@ -1,7 +1,7 @@
 {
-    "name": "phaser-base",
+    "name": "card",
     "version": "1.0.0",
-    "description": "A Phaser 3 Template",
+    "description": "A Phaser 3 Card Game",
     "main": "src/index.js",
     "scripts": {
         "build": "webpack",
@@ -9,15 +9,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ashkettle/phaser-base.git"
+        "url": "git+https://github.com/ashkettle/card.git"
     },
     "author": "Richard Ashkettle",
     "license": "MIT",
     "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
     "bugs": {
-        "url": "https://github.com/ashkettle/phaser-base/issues"
+        "url": "https://github.com/ashkettle/card/issues"
     },
-    "homepage": "https://github.com/ashkettle/phaser-base#readme",
+    "homepage": "https://github.com/ashkettle/card#readme",
     "devDependencies": {
         "eslint": "^5.14.1",
         "raw-loader": "^0.5.1",

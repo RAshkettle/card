@@ -1,11 +1,12 @@
-# Phaser 3 Webpack Project Template (Modified)
+# Card (working title)
 
-A Template for Phaser 3 - Modified and made generic for my purposes
+A card game for Phaser 3
 
 
 
 ## Install and run
 
-`./install.sh`
+`npm install`
+`npm start`  To build and run on Port 8000
 
 
